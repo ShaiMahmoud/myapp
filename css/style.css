@@ -186,7 +186,7 @@ p.parg-desc{
     transition-duration: 0.4s
 }
 .rtl {
-    direction: rtl;
+ left: 200px;
 }
 .price_table .price_box:hover  {
     transform: translateY(-5px);
