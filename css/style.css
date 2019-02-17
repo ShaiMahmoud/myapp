@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 body{
 direction: ltr;
 font-family: 'Rubik', sans-serif;color:
@@ -265,7 +269,7 @@ h5 {
     color: #633991;
     margin-bottom: 0.7rem;
 }
-.text-primary {
+.text-color {
     color: #e38cb7 !important;
 }
 /* End Testimonials */
